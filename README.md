@@ -1,0 +1,2 @@
+# Inheritance
+Introduction to inheritance
